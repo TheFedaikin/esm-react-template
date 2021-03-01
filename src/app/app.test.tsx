@@ -1,9 +1,8 @@
 import React from 'react'
 import { expect } from 'chai'
 
+import App from '@app'
 import { render } from '@testing-library/react'
-
-import App from './app'
 
 describe('<App>', () => {
   it('renders learn react link', () => {

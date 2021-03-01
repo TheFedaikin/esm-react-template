@@ -3,7 +3,7 @@
     "allowJs": false,
     "importsNotUsedAsValues": "error",
     "allowSyntheticDefaultImports": true,
-    "baseUrl": "./",
+    "baseUrl": ".",
     "esModuleInterop": false,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
